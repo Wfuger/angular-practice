@@ -1,0 +1,20 @@
+{
+  "name": "angular-practice",
+  "version": "1.0.0",
+  "description": "* Add ng-app to the top html tag * Include the angular script in the header to include it in the app * In the input add ng-model to bind the input to the model data and use double brackets to show the data as it changes in the h1 element",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wfuger/angular-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wfuger/angular-practice/issues"
+  },
+  "homepage": "https://github.com/Wfuger/angular-practice#readme"
+}
